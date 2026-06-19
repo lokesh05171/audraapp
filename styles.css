@@ -472,3 +472,7 @@ body.modal-open { overflow: hidden; }
   .signup-panel { padding: 30px 22px; }
   .signup-panel h2 { font-size: 34px; }
 }
+.logo {
+    height: 50px;
+    width: auto;
+}
